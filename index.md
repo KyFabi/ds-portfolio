@@ -18,4 +18,4 @@ My name is Fabian Campos Im a current student and Oregon State. I've always had 
 Current project i'm working on is a live IR scanner that intercepts projectiles within its area.
 
 ## Contact Info
-Email:campofab@oregonstate.edu
+Email: campofab@oregonstate.edu
